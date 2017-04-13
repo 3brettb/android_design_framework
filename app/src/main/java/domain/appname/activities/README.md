@@ -1,0 +1,1 @@
+This folder is where to generate and store Android Activity classes
